@@ -20,7 +20,8 @@
 - Interfaz multiplataforma (Android / iOS / Windows — según soporte de .NET MAUI).
 
 
-![Uploading loginamics.png…]()   ![Uploading mainpagefallaamics.png…]()
+<img width="545" height="887" alt="loginamics" src="https://github.com/user-attachments/assets/1e8f8998-d042-4aa3-9080-00accdee8d2f" />
+
 
 
 
